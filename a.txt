@@ -1,2 +1,3 @@
 Normal test
 For vimdiff
+Because I need to figure it out
