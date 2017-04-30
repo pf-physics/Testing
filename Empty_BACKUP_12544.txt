@@ -1,8 +1,8 @@
 This file is supposed to be empty and yet there is text.
 
-
+<<<<<<< HEAD
 Life is full of Surprises
-
+=======
 
 So I'm going to add a sentence here!!!
-
+>>>>>>> 12bfcc8433f82af35f962c4b2556da97d7ab0cd2
