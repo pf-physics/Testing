@@ -1,0 +1,9 @@
+This file is a test
+It serves to test git
+<<<<<<< HEAD
+Git is tested
+But never enough
+=======
+Git is tested I guess
+
+>>>>>>> 9c9261bcfce614059d39c94d9607ed2f86e6bbbe

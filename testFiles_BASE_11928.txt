@@ -1,0 +1,4 @@
+This file is a test
+It serves to test git
+Git is tested
+
