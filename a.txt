@@ -1,2 +1,2 @@
 Normal test
-For vimdiff
+For vimdiff for REAL
